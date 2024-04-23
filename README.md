@@ -1,7 +1,7 @@
 # wifi-csi
 Wifi CSI signal dataset for object detection
 
-This repository contains one csv file and two python pickle files (.pkl), one for the raw (the same data as csv) and the other for normalized data (amplitudes and phase).
+The dataset [hosted on Kaggle](https://www.kaggle.com/datasets/armandokeller/wifi-csi-object-detection) contains one csv file and two python pickle files (.pkl), one for the raw (the same data as csv) and the other for normalized data (amplitudes and phase).
 Each pickle file contains a pandas DataFrame with the following columns:
  - 52 columns of amplitude (with the prefix "amp_")
  - 52 columns of phase (with the prefix "phase_")
