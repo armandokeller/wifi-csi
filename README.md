@@ -20,4 +20,4 @@ from picke import load
 dataset = load(open("./dataset_normalized.pkl","rb"))
 ```
 
-The classifiers_example.py file contains a sort of examples of classification using the dataset.
+The [classifiers_example.py](./classifiers_example.py) file contains a sort of examples of classification using the dataset.
